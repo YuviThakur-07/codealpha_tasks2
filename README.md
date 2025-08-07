@@ -6,3 +6,4 @@ to initialize
 3. create a new folder named views and paste all ejs file in it
 4. create another folder named public and paste style.css in it
 5. after setting up run command...   node index.js
+6. in browser type in http://localhost:8080/posts
