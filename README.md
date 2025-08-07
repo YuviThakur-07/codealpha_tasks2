@@ -1,8 +1,8 @@
 # codealpha_tasks2
 
 to initialize 
-open terminal and type command...  npm init -y
-npm i express ejs method-override uuid
-create a new folder named views and paste all ejs file in it
-create another folder named public and paste style.css in it
-after setting up run command...   node index.js
+1. open terminal and type command...  npm init -y
+2. npm i express ejs method-override uuid
+3. create a new folder named views and paste all ejs file in it
+4. create another folder named public and paste style.css in it
+5. after setting up run command...   node index.js
