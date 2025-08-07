@@ -1,0 +1,28 @@
+*{
+    margin: 8px;
+    border-radius: 12px;
+}
+h1{
+    color: maroon;
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+    color: maroon;
+}
+a{
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    /* border: 2px solid black; */
+    background-color: rgba(23, 68, 216, 0.945);
+    border-radius: 6px;
+}
+a:hover {
+    background-color: rgb(39, 114, 39);
+    color: white;
+}
